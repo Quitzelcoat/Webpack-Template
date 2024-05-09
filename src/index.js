@@ -1,3 +1,5 @@
-alert('It works')
+alert("It works");
 
-let something = console.log('anything');
+let something = console.log("anything");
+
+alert(something);
